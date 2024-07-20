@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
   
-  <a href="patilpranal.pp17@gmail.com">
+  <a href="mailto:patilpranal.pp17@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 </div>
 
